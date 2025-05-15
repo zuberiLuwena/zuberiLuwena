@@ -2,7 +2,7 @@
 
 ### You can follow me on linkedin here
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zuberidluwena)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zuberiLuwena)
 
 
 **zuberiLuwena/zuberiLuwena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
