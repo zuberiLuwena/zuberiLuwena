@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there Welcome to my GitHub Account 👋
+
+### You can follow me on linkedin here
+
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zuberi-d-luwena)
 
 
 **zuberiLuwena/zuberiLuwena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
