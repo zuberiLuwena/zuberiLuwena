@@ -1,6 +1,8 @@
 ## Hi there Welcome to my GitHub Account 👋
 
-### You can follow me on linkedin here
+### You can follow me on MY socials Here
+
+[![GitHub Badge](https://img.shields.io/github/followers/zuberiLuwena?style=social)](https://github.com/zuberiLuwena?tab=followers)
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zuberiLuwena)
 
